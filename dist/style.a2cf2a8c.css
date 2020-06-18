@@ -1,2 +1,2 @@
 *{margin:0;padding:0;box-sizing:border-box}body,html{height:100vh}.wrap{margin:0 auto;width:60vw;min-height:100vh;position:relative;box-shadow:0 0 5px silver}.wrap_content{margin-left:15px;width:500px;height:100%;word-break:break-all}.demo{right:309px;top:0;position:fixed}div.demo:after,div.demo:before{content:"";position:relative;display:block}@media screen and (max-width:768px){.wrap{width:100vw;overflow:hidden}.wrap_content{position:absolute;top:40vh;margin:0}.content{width:100vw;height:60vh;box-shadow:0 0 10px silver;overflow:scroll}.demo{transform:translateX(-50%) scale(.7);left:50%;top:-30px;position:fixed}}
-/*# sourceMappingURL=/style.a2cf2a8c.css.map */
+/*# sourceMappingURL=dist/style.a2cf2a8c.css.map */
